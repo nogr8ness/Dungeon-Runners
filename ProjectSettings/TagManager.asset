@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Platform
+  - Wall
+  - Box
+  - Door
+  - Enemy
+  - yTrigger
+  - Teleport
+  - WizardFireball
+  - MovingPlatform
+  - Arrow
+  - Ceiling
+  - GraviSwitcher
+  - DummyFireball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Item
+  - Enemy
+  - Fireball
+  - EffectBubble
+  - EnemyFireball
+  - Trap
+  - MovingPlatform
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 763735791
+    locked: 0
+  - name: Foreground
+    uniqueID: 2390673583
+    locked: 0
+  - name: Wall
+    uniqueID: 3571044647
+    locked: 0
+  - name: Player
+    uniqueID: 2735223447
+    locked: 0
+  - name: Ground
+    uniqueID: 3893385579
+    locked: 0
+  - name: Trap
+    uniqueID: 3294326191
+    locked: 0
